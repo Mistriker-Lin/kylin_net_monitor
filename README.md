@@ -32,6 +32,6 @@
 - `journalctl`（systemd 环境下可用）
 
 ##  使用方法
-- 将脚本保存为 net_monitor.sh：
+- 将脚本保存为 net_monitor.sh
 - chmod +x net_monitor.sh
 - sudo bash net_monitor.sh
