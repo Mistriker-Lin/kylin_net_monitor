@@ -32,6 +32,8 @@
 - `journalctl`（systemd 环境下可用）
 
 ##  使用方法
+- 安装`conntrack`:sudo apt install conntrack
 - 将脚本保存为 net_monitor.sh
+- 进入脚本存放目录
 - chmod +x net_monitor.sh
 - sudo bash net_monitor.sh
